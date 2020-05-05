@@ -22,7 +22,7 @@
     "ticker"
   ],
   "dependencies": {
-    "autobahn": "0.10.0",
+    "autobahn": "0.12.0",
     "bufferutil": "^1.2.1",
     "faye-websocket": "0.11.0",
     "pusher-client" : "1.1.0",
